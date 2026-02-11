@@ -15,8 +15,8 @@
   <tbody>
     <!-- === Visual === --!>
     <tr>
-      <td><img src="assets/auntie_megas_milk.gif" alt="auntie-megas-milk"/></td>
-      <td><img src="assets/auntie_megas_fish_tank.gif" alt="auntie_megas_fish_tank"/></td>
+      <td><img width="100%" src="assets/game_banner/auntie_megas_milk.png" alt="auntie-megas-milk"/></td>
+      <td><img width="100%" src="assets/game_banner/auntie_megas_fish_tank.gif" alt="auntie_megas_fish_tank"/></td>
     </tr>
     <!-- === Description === --!>
     <tr>
@@ -45,8 +45,8 @@
   <tbody>
     <!-- === Visual === --!>
     <tr>
-      <td><img src="assets/inkcome.gif" alt="inkcome"/></td>
-      <td><img src="assets/planet_of_mei.gif" alt="planet_of_mei"/></td>
+      <td><img width="100%" src="assets/game_banner/inkcome.png" alt="inkcome"/></td>
+      <td><img width="100%" src="assets/game_banner/planet_of_mei.gif" alt="planet_of_mei"/></td>
     </tr>
     <!-- === Description === --!>
     <tr>
@@ -79,8 +79,8 @@
   <tbody>
     <!-- === Visual === --!>
     <tr>
-      <td><img src="assets/auntie_megas_milk.gif" alt="auntie-megas-milk"/></td>
-      <td><img src="assets/auntie_megas_fish_tank.gif" alt="auntie_megas_fish_tank"/></td>
+      <td><img width="100%" src="assets/auntie_megas_milk.gif" alt="auntie-megas-milk"/></td>
+      <td><img width="100%" src="assets/auntie_megas_fish_tank.gif" alt="auntie_megas_fish_tank"/></td>
     </tr>
     <!-- === Description === --!>
     <tr>
@@ -109,8 +109,8 @@
   <tbody>
     <!-- === Visual === --!>
     <tr>
-      <td><img src="assets/inkcome.gif" alt="inkcome"/></td>
-      <td><img src="assets/planet_of_mei.gif" alt="planet_of_mei"/></td>
+      <td><img width="100%" src="assets/inkcome.gif" alt="inkcome"/></td>
+      <td><img width="100%" src="assets/planet_of_mei.gif" alt="planet_of_mei"/></td>
     </tr>
     <!-- === Description === --!>
     <tr>
@@ -133,7 +133,7 @@
 ## 📫 Contact
 📌 Email: maximilliankenas520@gmail.com<br>
 📌 LinkedIn: https://www.linkedin.com/in/maximillian-kenas-37250b38a<br>
-📌 Discord: maxxi280
+<!-- 📌 Discord: maxxi280 --!>
 
 
 <!--
