@@ -26,7 +26,7 @@
     <!-- === More info === --!>
     <tr>
       <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>3 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>7 Days</b> ⌛<br>Made in Godot <img height="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>7 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
@@ -55,8 +55,8 @@
     </tr>
     <!-- === More info === --!>
     <tr>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>14 Days</b> ⌛<br>Made in Godot <img height="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Godot <img height="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>14 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
@@ -89,8 +89,8 @@
     </tr>
     <!-- === More info === --!>
     <tr>
-      <td valign="text-top""><p align="center">Role: <b>Team Manager</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Unity <img height="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Developer</b> 👤<br>Time spent: <b>90 Days</b> ⌛<br>Made in Unity <img height="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
+      <td valign="text-top""><p align="center">Role: <b>Team Manager</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
+      <td valign="text-top""><p align="center">Role: <b>Game Developer</b> 👤<br>Time spent: <b>90 Days</b> ⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
@@ -119,8 +119,8 @@
     </tr>
     <!-- === More info === --!>
     <tr>
-      <td valign="text-top""><p align="center">Role: <b>Game Designer</b> 👤<br>Time spent: <b>7 Days</b> ⌛<br>Made in Unity <img height="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Godot <img height="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top""><p align="center">Role: <b>Game Designer</b> 👤<br>Time spent: <b>7 Days</b> ⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
+      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
