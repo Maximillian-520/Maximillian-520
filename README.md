@@ -20,13 +20,13 @@
     </tr>
     <!-- === Description === --!>
     <tr>
-      <td valign="text-top""><p align="center">An <b>idle milk game</b> where you manage a grab-and-go milk bar.</p></td>
-      <td valign="text-top""><p align="center">An <b>idle fishing game</b> where you catch & collect fish in a little always-on window while you do other tasks.</p></td>
+      <td valign="text-top"><p align="center">An <b>idle milk game</b> where you manage a grab-and-go milk bar.</p></td>
+      <td valign="text-top"><p align="center">An <b>idle fishing game</b> where you catch & collect fish in a little always-on window while you do other tasks.</p></td>
     </tr>
     <!-- === More info === --!>
     <tr>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>3 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>7 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>3 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
@@ -50,13 +50,13 @@
     </tr>
     <!-- === Description === --!>
     <tr>
-      <td valign="text-top""><p align="center">A <b>casual, overcook like game</b> where you manage a printing shop.</p></td>
-      <td valign="text-top""><p align="center">A <b>resource management game</b> where you manage a colony planet and thrive.</p></td>
+      <td valign="text-top"><p align="center">A <b>casual, overcook like game</b> where you manage a printing shop.</p></td>
+      <td valign="text-top"><p align="center">A <b>resource management game</b> where you manage a colony planet and thrive.</p></td>
     </tr>
     <!-- === More info === --!>
     <tr>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>14 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>14 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>30 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
@@ -67,65 +67,45 @@
 </table>
 
 ## 🕹️ Other Projects 🕹️
-<table width="100%">
-  <!-- === First row === --!>
+<table>
+  <!-- === Header row === --!>
   <thead>
-    <!-- === Title === --!>
+    <!-- === Colomn Title === --!>
     <tr>
-      <th width="50%"><b>Treeason</b></th>
-      <th width="50%"><b>Nihilist Me</b></th>
+      <th width="600px"><b>Name</b></th>
+      <th width="150px"><b>Time Spent⌛</b></th>
+      <th width="150px"><b>Made in⚙️</b></th>
+      <th width="150px"><b>Play🎮</b></th>
     </tr>
   </thead>
   <tbody>
-    <!-- === Visual === --!>
+    <!-- === Game 1 === --!>
     <tr>
-      <td><img width="100%" src="assets/game_banner/treeason.png" alt="treeason"/></td>
-      <td><img width="100%" src="assets/game_banner/nihilist_me.png" alt="nihilist_me"/></td>
+      <td><p>Treeason</p></td>
+      <td><p align="center">30 Days</p></td>
+      <td><p align="center">Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="godot"/></p></td>
+      <td><a href="https://bgdc.itch.io/treeason"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
     </tr>
-    <!-- === Description === --!>
+    <!-- === Game 2 === --!>
     <tr>
-      <td valign="text-top""><p align="center">A <b>2D platformer game</b> where you help Siti plant trees and restore nature.</p></td>
-      <td valign="text-top""><p align="center">A <b>short narrative-driven game</b> where you debate with other people.</p></td>
+      <td><p>Nihilist Me</p></td>
+      <td><p align="center">90 Days</p></td>
+      <td><p align="center">Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="godot"/></p></td>
+      <td><a href="https://natookie.itch.io/nihilist-me"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
     </tr>
-    <!-- === More info === --!>
+    <!-- === Game 3 === --!>
     <tr>
-      <td valign="text-top""><p align="center">Role: <b>Team Manager</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Developer</b> 👤<br>Time spent: <b>90 Days</b> ⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
+      <td><p>Room For One More</p></td>
+      <td><p align="center">7 Days</p></td>
+      <td><p align="center">Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="godot"/></p></td>
+      <td><a href="https://maximillian520.itch.io/room-for-one-more"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
     </tr>
-    <!-- === Game link === --!>
+    <!-- === Game 4 === --!>
     <tr>
-      <td align="center"><p align="center"><a href="https://bgdc.itch.io/treeason"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
-      <td align="center"><p align="center"><a href="https://natookie.itch.io/nihilist-me"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
-    </tr>
-  </tbody>
-  <!-- === Second row === --!>
-  <thead>
-    <!-- === Title === --!>
-    <tr>
-      <th width="50%"><b>Room For One More</b></th>
-      <th width="50%"><b>Ghost of Mei</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- === Visual === --!>
-    <tr>
-      <td><img width="100%" src="assets/game_banner/room_for_one_more.png" alt="room_for_one_more"/></td>
-      <td><img width="100%" src="assets/game_banner/ghost_of_mei.gif" alt="ghost_of_mei"/></td>
-    </tr>
-    <!-- === Description === --!>
-    <tr>
-      <td valign="text-top""><p align="center">A <b>cozy, space management game</b> where you arrange furnitures to satisfy the endless demands.</p></td>
-      <td valign="text-top""><p align="center">A <b>2D platformer game</b> where you catch spirits and busting ghost.</p></td>
-    </tr>
-    <!-- === More info === --!>
-    <tr>
-      <td valign="text-top""><p align="center">Role: <b>Game Designer</b> 👤<br>Time spent: <b>7 Days</b> ⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
-      <td valign="text-top""><p align="center">Role: <b>Game Programmer</b> 👤<br>Time spent: <b>30 Days</b> ⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
-    </tr>
-    <!-- === Game link === --!>
-    <tr>
-      <td align="center"><p align="center"><a href="https://maximillian520.itch.io/room-for-one-more"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
-      <td align="center"><p align="center"><a href="https://hanif012.itch.io/ghost-of-mei"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
+      <td><p>Ghost of Mei</p></td>
+      <td><p align="center">2 Days</p></td>
+      <td><p align="center">Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td><a href="https://hanif012.itch.io/ghost-of-mei"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
     </tr>
   </tbody>
 </table>
