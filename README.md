@@ -1,4 +1,4 @@
-# Hello 👋
+# Hello👋
 
 <p align="justify">I'm <b>Maximillian Kenas</b>, a <b>Game Application & Technology</b> undergraduate at <b>BINUS University</b>. I'm a <b>game programmer</b> with a strong focus on <b>Godot</b>. I'm skilled in making 2D games and currently strengthening my skills in 3D games.</p>
 
