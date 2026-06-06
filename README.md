@@ -20,7 +20,7 @@
     </tr>
     <!-- === Description === --!>
     <tr>
-      <td valign="text-top"><p align="center">An <b>idle milk game</b> where you manage a grab-and-go milk bar.</p></td>
+      <td valign="text-top"><p align="center">An <b>idle fishing game</b> where you catch & collect fish in a little always-on window while you do other tasks.</p></td>
       <td valign="text-top"><p align="center">A <b>resource management game</b> where you manage a colony planet and thrive.</p></td>
     </tr>
     <!-- === More info === --!>
