@@ -38,25 +38,25 @@
   <thead>
     <!-- === Title === --!>
     <tr>
+      <th width="50%"><b>Household Chaos and Chores</b></th>
       <th width="50%"><b>Butt Pressure</b></th>
-      <th width="50%"><b>Auntie Mega's Milk Rush</b></th>
     </tr>
   </thead>
   <tbody>
     <!-- === Visual === --!>
     <tr>
+      <td><img width="100%" src="assets/game_banner/household_chaos_and_chores.gif" alt="household_chaos_and_chores"/></td>
       <td><img width="100%" src="assets/game_banner/butt_pressure.gif" alt="butt_pressure"/></td>
-      <td><img width="100%" src="assets/game_banner/auntie_megas_milk_rush.gif" alt="auntie_megas_milk_rush"/></td>
     </tr>
     <!-- === Description === --!>
     <tr>
+      <td valign="text-top"><p align="center">A <b>chaotic survival and chores game</b> where you must stay alive in a flying-and-falling-object nightmare while doing chores.</p></td>
       <td valign="text-top"><p align="center">A <b>time-pressured puzzle game</b> where you have to find a toilet before the time runs out.</p></td>
-      <td valign="text-top"><p align="center">A <b>cow management game</b> where you run a milk-selling business by milking cows and serving milk to customers.</p></td>
     </tr>
     <!-- === More info === --!>
     <tr>
-      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>3 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
       <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
+      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>3 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
@@ -123,10 +123,17 @@
     </tr>
     <!-- === Game 7 === --!>
     <tr>
-      <td><p>Household Chaos and Chores</p></td>
+      <td><p>Auntie Mega's Milk Rush</p></td>
       <td><p align="center">7 Days</p></td>
       <td><p align="center">Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
-      <td><a href="https://maximillian520.itch.io/household-chaos-and-chores"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
+      <td><a href="https://jenniea.itch.io/auntie-megas-milk-rush"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
+    </tr>
+    <!-- === Game 8 === --!>
+    <tr>
+      <td><p>Project Grin</p></td>
+      <td><p align="center">30 Days</p></td>
+      <td><p align="center">Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
+      <td><a href="https://maximillian520.itch.io/project-grin"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
     </tr>
   </tbody>
 </table>
@@ -134,7 +141,7 @@
 ## 📫 Contact
 📌 Email: maximilliankenas520@gmail.com<br>
 📌 LinkedIn: https://www.linkedin.com/in/maximillian-kenas-37250b38a<br>
-<!-- 📌 Discord: maxxi280 --!>
+📌 Discord: maxxi280
 
 
 <!--
