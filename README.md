@@ -140,13 +140,6 @@
 
 ## 📫 Contact
 📌 Email: maximilliankenas520@gmail.com<br>
-📌 LinkedIn: https://www.linkedin.com/in/maximillian-kenas-37250b38a<br>
+📌 LinkedIn: https://www.linkedin.com/in/maximillian-kenas<br>
 📌 Discord: maxxi280
 
-
-<!--
-readme ref:
-https://github.com/Lemun8
-https://github.com/VieroFamico/VieroFamico
-https://github.com/rchtr-chn
--->
