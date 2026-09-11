@@ -55,13 +55,13 @@
     </tr>
     <!-- === More info === --!>
     <tr>
-      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
+      <td valign="text-top"><p align="center">Role: <b>Game Developer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
       <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>3 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
     </tr>
     <!-- === Game link === --!>
     <tr>
+      <td align="center"><p align="center"><a href="https://maximillian520.itch.io/household-chaos-and-chores"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
       <td align="center"><p align="center"><a href="https://dupow.itch.io/butt-pressure"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
-      <td align="center"><p align="center"><a href="https://jenniea.itch.io/auntie-megas-milk-rush"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
     </tr>
   </tbody>
 </table>
@@ -141,5 +141,4 @@
 ## 📫 Contact
 📌 Email: maximilliankenas520@gmail.com<br>
 📌 LinkedIn: https://www.linkedin.com/in/maximillian-kenas<br>
-📌 Discord: maxxi280
 
