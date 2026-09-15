@@ -20,18 +20,24 @@
     </tr>
     <!-- === Description === --!>
     <tr>
-      <td valign="text-top"><p align="center">An <b>idle fishing game</b> where you catch & collect fish in a little always-on window while you do other tasks.</p></td>
-      <td valign="text-top"><p align="center">A <b>resource management game</b> where you manage a colony planet and thrive.</p></td>
+      <td valign="text-top"><p align="justify">An idle fishing game where you catch & collect fish in a little always-on window while you do other tasks. The game shows a chill pixel art fishing & collecting experience with features such as fishing, mutations, and exploration. Overtime, the player explores different fishing regions, catches fish, brings them back to an aquarium, and improves both the aquarium and the fishing boat over time.</p></td>
+      <td valign="text-top"><p align="justify">A <b>resource management game</b> where you manage a colony planet and thrive.</p></td>
     </tr>
     <!-- === More info === --!>
     <tr>
       <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
       <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>30 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
     </tr>
-    <!-- === Game link === --!>
+    <!-- === Link === --!>
     <tr>
-      <td align="center"><p align="center"><a href="https://hanif012.itch.io/auntie-megas-fish"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
-      <td align="center"><p align="center"><a href="planet-of-mei-link?"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
+      <td align="center"><p align="center">
+        <a href="https://hanif012.itch.io/auntie-megas-fish"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
+        <a href="https://github.com/Maximillian-520/Auntie-Megas-Fish-Tank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+      </td>
+      <td align="center"><p align="center">
+        <a href="planet-of-mei-link?"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
+        <a href="planet-of-mei-link?"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+      </td>
     </tr>
   </tbody>
   <!-- === Second row === --!>
@@ -50,18 +56,24 @@
     </tr>
     <!-- === Description === --!>
     <tr>
-      <td valign="text-top"><p align="center">A <b>chaotic survival and chores game</b> where you must stay alive in a flying-and-falling-object nightmare while doing chores.</p></td>
-      <td valign="text-top"><p align="center">A <b>time-pressured puzzle game</b> where you have to find a toilet before the time runs out.</p></td>
+      <td valign="text-top"><p align="justify">A chaotic survival and chores game where you must stay alive in a flying-and-falling-object nightmare while doing chores. The game blends fast-paced survival gameplay with a short dish-washing minigame, where the player alternates between escaping incoming threats and completing household tasks.</p></td>
+      <td valign="text-top"><p align="justify">A time-pressured puzzle game where you have to find a toilet before the time runs out. The player takes on the role of a new student who suddenly needs to find a restroom as fast as possible while navigating classrooms, hallways, doors, and interactive NPCs. The core tension comes from a rising “poo meter,” which pushes the player to keep moving while also forcing them to manage timing, exploration, and objective completion.</p></td>
     </tr>
     <!-- === More info === --!>
     <tr>
       <td valign="text-top"><p align="center">Role: <b>Game Developer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
       <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>3 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
     </tr>
-    <!-- === Game link === --!>
+    <!-- === Link === --!>
     <tr>
-      <td align="center"><p align="center"><a href="https://maximillian520.itch.io/household-chaos-and-chores"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
-      <td align="center"><p align="center"><a href="https://dupow.itch.io/butt-pressure"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></p></td>
+      <td align="center"><p align="center">
+        <a href="https://maximillian520.itch.io/household-chaos-and-chores"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
+        <a href="https://github.com/Maximillian-520/Beyond-Game-Jam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+      </td>
+      <td align="center"><p align="center">
+        <a href="https://dupow.itch.io/butt-pressure"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
+        <a href="https://github.com/Natookie/ButtPressure"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+      </td>
     </tr>
   </tbody>
 </table>
