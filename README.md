@@ -45,19 +45,19 @@
     <!-- === Title === --!>
     <tr>
       <th width="50%"><b>Butt Pressure</b></th>
-      <th width="50%"><b>Planet of Mei</b></th>
+      <th width="50%"><b>One More Day</b></th>
     </tr>
   </thead>
   <tbody>
     <!-- === Visual === --!>
     <tr>
       <td><img width="100%" src="assets/game_banner/butt_pressure.gif" alt="butt_pressure"/></td>
-      <td><img width="100%" src="assets/game_banner/planet_of_mei.gif" alt="planet_of_mei"/></td>
+      <td><img width="100%" src="assets/game_banner/one_more_day.gif" alt="one_more_day"/></td>
     </tr>
     <!-- === Description === --!>
     <tr>
       <td valign="text-top"><p align="justify">A <b>time-pressured puzzle game</b> where you have to find a toilet before the time runs out. The player takes on the role of a new student who suddenly needs to find a restroom as fast as possible while navigating classrooms, hallways, doors, and interactive NPCs. The core tension comes from a rising “poo meter,” which pushes the player to keep moving while also forcing them to manage timing, exploration, and objective completion.</p></td>
-      <td valign="text-top"><p align="justify">A <b>resource management game</b> where you manage a colony planet and thrive.</p></td>
+      <td valign="text-top"><p align="justify">A <b>narrative puzzle game</b> about a husband trapped in a time loop after losing his wife in a mysterious accident. The game blends character scheduling, inventory management, dialogue scenes, and room-to-room navigation into a single repeating gameplay loop where the player tries to influence events and uncover the correct path forward.</p></td>
     </tr>
     <!-- === More info === --!>
     <tr>
@@ -71,8 +71,8 @@
         <a href="https://github.com/Natookie/ButtPressure"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
       </td>
       <td align="center"><p align="center">
-        <a href="planet-of-mei-link?"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
-        <a href="planet-of-mei-link?"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+        <a href="https://memoa.itch.io/one-more-day"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
+        <a href="https://github.com/JennieAurellia/One-More-Day"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
       </td>
     </tr>
   </tbody>
@@ -104,6 +104,13 @@
       <td><p align="center">14 Days</p></td>
       <td><p align="center">Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
       <td><a href="https://pc-dealer.itch.io/inkcome"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
+    </tr>
+    <!-- === Game 3 === --!>
+    <tr>
+      <td><p>Planet of Mei</p></td>
+      <td><p align="center">30 Days</p></td>
+      <td><p align="center">Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td><a href="https://planet-of-mei?"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a></td>
     </tr>
     <!-- === Game 3 === --!>
     <tr>
