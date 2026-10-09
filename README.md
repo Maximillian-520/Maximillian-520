@@ -26,7 +26,7 @@
     <!-- === More info === --!>
     <tr>
       <td valign="text-top"><p align="center">Role: <b>Game Developer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Unity <img width="16px" src="assets/game_engine_icon/unity_icon.png" alt="unity"/></p></td>
-      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>7 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
+      <td valign="text-top"><p align="center">Role: <b>Game Programmer</b>👤<br>Time spent: <b>10 Days</b>⌛<br>Made in Godot <img width="16px" src="assets/game_engine_icon/godot_icon.png" alt="godot"/></p></td>
     </tr>
     <!-- === Link === --!>
     <tr>
