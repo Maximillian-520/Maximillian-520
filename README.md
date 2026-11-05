@@ -4,6 +4,7 @@
 
 ## 🎮 Highlight Projects 🎮
 <table width="100%">
+  
   <!-- === First row === --!>
   <thead>
     <!-- === Title === --!>
@@ -40,6 +41,7 @@
       </td>
     </tr>
   </tbody>
+  
   <!-- === Second row === --!>
   <thead>
     <!-- === Title === --!>
@@ -73,6 +75,41 @@
       <td align="center"><p align="center">
         <a href="https://memoa.itch.io/one-more-day"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
         <a href="https://github.com/JennieAurellia/One-More-Day"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+      </td>
+    </tr>
+  </tbody>
+
+  <!-- === Third row === --!>
+  <thead>
+    <!-- === Title === --!>
+    <tr>
+      <th width="50%"><b>Train Market Simulator</b></th>
+      <th width="50%"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- === Visual === --!>
+    <tr>
+      <td><img width="100%" src="assets/game_banner/train_market_simulator.gif" alt="butt_pressure"/></td>
+      <td><div width="100%"></div></td>
+    </tr>
+    <!-- === Description === --!>
+    <tr>
+      <td valign="text-top"><p align="justify">A <b>management simulation game</b> where you manage a market above railway tracks. The game is a mix of city building and management where you build shops and other buildings while preventing any customer from being hit by incoming trains.</p></td>
+      <td valign="text-top"><p align="justify"></p></td>
+    </tr>
+    <!-- === More info === --!>
+    <tr>
+      <td valign="text-top"><p align="center">Role: <b>Game Developer</b>👤<br>Time spent: <b>40 Days</b>⌛<br>Made in Unreal <img width="16px" src="assets/game_engine_icon/unreal_icon.png" alt="unreal"/></p></td>
+      <td valign="text-top"><p align="center"></p></td>
+    </tr>
+    <!-- === Link === --!>
+    <tr>
+      <td align="center"><p align="center">
+        <a href="https://maximillian520.itch.io/train-market-simulator"><img src="https://img.shields.io/badge/▶%20Play%20Game-e53935?style=for-the-badge&logoColor=white"></a><br>
+        <a href="https://github.com/Maximillian-520/Game-Gauntlet-Sim-Jam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a></p>
+      </td>
+      <td align="center"><p align="center">
       </td>
     </tr>
   </tbody>
