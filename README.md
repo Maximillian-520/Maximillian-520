@@ -4,7 +4,6 @@
 
 ## 🎮 Highlight Projects 🎮
 <table width="100%">
-  
   <!-- === First row === --!>
   <thead>
     <!-- === Title === --!>
@@ -41,7 +40,6 @@
       </td>
     </tr>
   </tbody>
-  
   <!-- === Second row === --!>
   <thead>
     <!-- === Title === --!>
@@ -78,7 +76,6 @@
       </td>
     </tr>
   </tbody>
-
   <!-- === Third row === --!>
   <thead>
     <!-- === Title === --!>
@@ -195,6 +192,7 @@
 </table>
 
 ## 📫 Contact
+
 📌 Email: maximilliankenas520@gmail.com<br>
 📌 LinkedIn: https://www.linkedin.com/in/maximillian-kenas<br>
 
